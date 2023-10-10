@@ -1,6 +1,5 @@
 ### Meu Portfólio de Desenvolvedor Full Stack
 
-![Guilherme Barros](https://placekitten.com/200/200)
 
 Olá 👋, sou Guilherme Barros, um desenvolvedor full stack com um ano de experiência dedicado ao emocionante mundo do desenvolvimento web. Durante esse tempo, descobri minha paixão por criar soluções web inovadoras e eficientes.
 
