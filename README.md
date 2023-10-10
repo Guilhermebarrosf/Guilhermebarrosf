@@ -6,23 +6,23 @@ Olá 👋, sou Guilherme Barros, um desenvolvedor full stack com um ano de exper
 
 #### Minhas Habilidades
 
-- <i class="fab fa-angular"></i> AngularJS e Angular (2+), para criar interfaces de usuário dinâmicas e interativas.
-- <i class="fab fa-js"></i> JavaScript e TypeScript, para desenvolvimento frontend de alta qualidade.
-- <i class="fab fa-java"></i> Java (8+), para construção de aplicativos robustos e escaláveis.
-- <i class="fas fa-database"></i> Bancos de dados relacionais, com expertise em Hibernate.
-- <i class="fab fa-spring"></i> Spring Boot, para desenvolvimento rápido e eficiente de aplicativos Java.
-- <i class="fas fa-cube"></i> Maven, para gerenciamento de dependências e builds.
-- <i class="fab fa-docker"></i> Docker, para facilitar o empacotamento e distribuição de aplicativos.
-- <i class="fab fa-btc"></i> Camunda BPMN, para automação de processos de negócios.
-- <i class="far fa-file-pdf"></i> Jasper Reports, para geração de relatórios personalizados.
-- <i class="fab fa-git"></i> Git, para controle de versão colaborativo.
-- <i class="fas fa-vial"></i> Frameworks de teste como JUnit e TestNG.
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="AngularJS" width="20" height="20"> AngularJS e Angular (2+), para criar interfaces de usuário dinâmicas e interativas.
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="20" height="20"> JavaScript e TypeScript, para desenvolvimento frontend de alta qualidade.
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="20" height="20"> Java (8+), para construção de aplicativos robustos e escaláveis.
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" alt="Hibernate" width="20" height="20"> Bancos de dados relacionais, com expertise em Hibernate.
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="20" height="20"> Spring Boot, para desenvolvimento rápido e eficiente de aplicativos Java.
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="Maven" width="20" height="20"> Maven, para gerenciamento de dependências e builds.
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="20" height="20"> Docker, para facilitar o empacotamento e distribuição de aplicativos.
+- <img src="https://www.camunda.com/resources/preview/586e7e91e192abf2a0ebd72eab2e5e17/placeholder/marker.png" alt="Camunda BPMN" width="20" height="20"> Camunda BPMN, para automação de processos de negócios.
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jasper/jasper-original.svg" alt="Jasper Reports" width="20" height="20"> Jasper Reports, para geração de relatórios personalizados.
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="20" height="20"> Git, para controle de versão colaborativo.
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg" alt="JUnit" width="20" height="20"> Frameworks de teste como JUnit e TestNG.
 
 #### Práticas Importantes
 
-- Desenvolvimento Orientado por Testes (TDD).
-- Arquitetura Limpa.
-- Adesão aos princípios SOLID.
+- :heavy_check_mark: Desenvolvimento Orientado por Testes (TDD).
+- :heavy_check_mark: Arquitetura Limpa.
+- :heavy_check_mark: Adesão aos princípios SOLID.
 
 #### Entre em Contato
 
