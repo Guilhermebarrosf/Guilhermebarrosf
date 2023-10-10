@@ -19,9 +19,9 @@ Olá 👋, sou Guilherme Barros, um desenvolvedor full stack com um ano de exper
 
 #### Práticas Importantes
 
-- :heavy_check_mark: Desenvolvimento Orientado por Testes (TDD).
-- :heavy_check_mark: Arquitetura Limpa.
-- :heavy_check_mark: Adesão aos princípios SOLID.
+- :heavy_check_mark: Desenvolvimento Orientado por Testes (TDD) - Intermediário.
+- :heavy_check_mark: Arquitetura Limpa - Básico.
+- :heavy_check_mark: Adesão aos princípios SOLID - Básico.
 
 #### Entre em Contato
 
