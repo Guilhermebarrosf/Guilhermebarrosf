@@ -1,115 +1,29 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Meu Portfólio de Desenvolvedor Full Stack</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f0f0f0;
-            text-align: center;
-        }
-        .header {
-            background-color: #1e90ff;
-            color: white;
-            padding: 20px;
-        }
-        .content {
-            background-color: white;
-            padding: 20px;
-            border-radius: 10px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-        .skills {
-            text-align: left;
-            margin: 20px 0;
-        }
-        .skill-item {
-            display: flex;
-            align-items: center;
-            margin: 5px 0;
-        }
-        .skill-icon {
-            width: 30px;
-            height: 30px;
-            margin-right: 10px;
-        }
-    </style>
-</head>
-<body>
-    <div class="header">
-        <h1>Meu Portfólio de Desenvolvedor Full Stack</h1>
-    </div>
+### Meu Portfólio de Desenvolvedor Full Stack
 
-    <div class="content">
-        <h3>Olá 👋, Me chamo Guilherme Barros e obrigado pela visita</h3>
+![Guilherme Barros](https://placekitten.com/200/200)
 
-        <p>
-            Sou um desenvolvedor full stack com um ano de experiência dedicado ao emocionante mundo do desenvolvimento web. Durante esse tempo, descobri minha paixão por criar soluções web inovadoras e eficientes.
-        </p>
+Olá 👋, sou Guilherme Barros, um desenvolvedor full stack com um ano de experiência dedicado ao emocionante mundo do desenvolvimento web. Durante esse tempo, descobri minha paixão por criar soluções web inovadoras e eficientes.
 
-        <p>
-            Minha jornada no desenvolvimento me ensinou muitas lições valiosas. Aprimorei minhas habilidades de resolução de problemas, aprimorei minha capacidade de trabalho em equipe e levei meu pensamento algorítmico a um novo nível, sempre visando o melhor processamento e desempenho.
-        </p>
+#### Minhas Habilidades
 
-        <div class="skills">
-            <h4>Tecnologias em Destaque:</h4>
-            <ul>
-                <li class="skill-item">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="AngularJS" class="skill-icon">
-                    AngularJS e Angular (2+), para criar interfaces de usuário dinâmicas e interativas.
-                </li>
-                <li class="skill-item">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" class="skill-icon">
-                    JavaScript e TypeScript, para desenvolvimento frontend de alta qualidade.
-                </li>
-                <li class="skill-item">
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" class="skill-icon">
-                    Java (8+), para construção de aplicativos robustos e escaláveis.
-                </li>
-                <li class="skill-item">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" alt="Hibernate" class="skill-icon">
-                    Bancos de dados relacionais, com expertise em Hibernate.
-                </li>
-                <li class="skill-item">
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" class="skill-icon">
-                    Spring Boot, para desenvolvimento rápido e eficiente de aplicativos Java.
-                </li>
-                <li class="skill-item">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="Maven" class="skill-icon">
-                    Maven, para gerenciamento de dependências e builds.
-                </li>
-                <li class="skill-item">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" class="skill-icon">
-                    Docker, para facilitar o empacotamento e distribuição de aplicativos.
-                </li>
-                <li class="skill-item">
-                    <img src="https://www.camunda.com/resources/preview/586e7e91e192abf2a0ebd72eab2e5e17/placeholder/marker.png" alt="Camunda BPMN" class="skill-icon">
-                    Camunda BPMN, para automação de processos de negócios.
-                </li>
-                <li class="skill-item">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jasper/jasper-original.svg" alt="Jasper Reports" class="skill-icon">
-                    Jasper Reports, para geração de relatórios personalizados.
-                </li>
-                <li class="skill-item">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" class="skill-icon">
-                    Git, para controle de versão colaborativo.
-                </li>
-                <li class="skill-item">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg" alt="JUnit" class="skill-icon">
-                    Frameworks de teste como JUnit e TestNG.
-                </li>
-            </ul>
-        </div>
+- <i class="fab fa-angular"></i> AngularJS e Angular (2+), para criar interfaces de usuário dinâmicas e interativas.
+- <i class="fab fa-js"></i> JavaScript e TypeScript, para desenvolvimento frontend de alta qualidade.
+- <i class="fab fa-java"></i> Java (8+), para construção de aplicativos robustos e escaláveis.
+- <i class="fas fa-database"></i> Bancos de dados relacionais, com expertise em Hibernate.
+- <i class="fab fa-spring"></i> Spring Boot, para desenvolvimento rápido e eficiente de aplicativos Java.
+- <i class="fas fa-cube"></i> Maven, para gerenciamento de dependências e builds.
+- <i class="fab fa-docker"></i> Docker, para facilitar o empacotamento e distribuição de aplicativos.
+- <i class="fab fa-btc"></i> Camunda BPMN, para automação de processos de negócios.
+- <i class="far fa-file-pdf"></i> Jasper Reports, para geração de relatórios personalizados.
+- <i class="fab fa-git"></i> Git, para controle de versão colaborativo.
+- <i class="fas fa-vial"></i> Frameworks de teste como JUnit e TestNG.
 
-        <p>
-            Além disso, aplico práticas como TDD (Desenvolvimento Orientado por Testes), seguindo uma arquitetura limpa e aderindo aos princípios SOLID.
-        </p>
-    </div>
+#### Práticas Importantes
 
-    <a href="https://www.linkedin.com/in/guilherme-barros-100a55159/" target="_blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-    </a>
-</body>
-</html>
+- Desenvolvimento Orientado por Testes (TDD).
+- Arquitetura Limpa.
+- Adesão aos princípios SOLID.
+
+#### Entre em Contato
+
+Você pode me encontrar no LinkedIn: [Guilherme Barros](https://www.linkedin.com/in/guilherme-barros-100a55159/).
