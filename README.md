@@ -3,6 +3,10 @@
 
 Olá 👋, sou Guilherme Barros, um desenvolvedor full stack com um ano de experiência dedicado ao emocionante mundo do desenvolvimento web. Durante esse tempo, descobri minha paixão por criar soluções web inovadoras e eficientes.
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermebarrosf&show_icons=true&locale=en&layout=compact" alt="guilhermebarrosf" /></p> 
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guilhermebarrosf&show_icons=true&locale=en" alt="guilhermebarrosf" /></p>
+
 #### Minhas Habilidades
 
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="AngularJS" width="20" height="20"> AngularJS e Angular (2+), para criar interfaces de usuário dinâmicas e interativas.
@@ -23,6 +27,7 @@ Olá 👋, sou Guilherme Barros, um desenvolvedor full stack com um ano de exper
 - :heavy_check_mark: Arquitetura Limpa - Básico.
 - :heavy_check_mark: Adesão aos princípios SOLID - Básico.
 
-#### Entre em Contato
+<h3 align="left">Entre em Contato:</h3> <p align="left"> <a href="https://linkedin.com/in/https://www.linkedin.com/in/guilherme-barros-100a55159/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/guilherme-barros-100a55159/" height="30" width="40" /></a>
+</p>
 
-Você pode me encontrar no LinkedIn: [Guilherme Barros](https://www.linkedin.com/in/guilherme-barros-100a55159/).
+
