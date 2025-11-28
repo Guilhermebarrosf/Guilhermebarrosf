@@ -3,9 +3,6 @@
 
 Olá 👋, sou Guilherme Barros, um desenvolvedor full stack com um ano de experiência dedicado ao emocionante mundo do desenvolvimento web. Durante esse tempo, descobri minha paixão por criar soluções web inovadoras e eficientes.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermebarrosf&show_icons=true&locale=en&layout=compact" alt="guilhermebarrosf" /></p> 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guilhermebarrosf&show_icons=true&locale=en" alt="guilhermebarrosf" /></p>
 
 #### Minhas Habilidades
 
@@ -16,7 +13,6 @@ Olá 👋, sou Guilherme Barros, um desenvolvedor full stack com um ano de exper
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="20" height="20"> Spring Boot, para desenvolvimento rápido e eficiente de aplicativos Java.
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="Maven" width="20" height="20"> Maven, para gerenciamento de dependências e builds.
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="20" height="20"> Docker, para facilitar o empacotamento e distribuição de aplicativos.
-- <img src="https://avatars.githubusercontent.com/u/2443838?s=280&v=4" alt="Camunda BPMN" width="20" height="20"> Camunda BPMN, para automação de processos de negócios.
 - <img src="https://blog.onesaitplatform.com/wp-content/uploads/2022/05/header_jasper_reports.jpg" alt="Jasper Reports" width="20" height="20"> Jasper Reports, para geração de relatórios personalizados.
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="20" height="20"> Git, para controle de versão colaborativo.
 - <img src="https://miro.medium.com/v2/resize:fit:1024/0*-iG0UknaZHuCNr4_.jpg" alt="JUnit" width="20" height="20"> Frameworks de teste como JUnit e TestNG.
@@ -26,8 +22,9 @@ Olá 👋, sou Guilherme Barros, um desenvolvedor full stack com um ano de exper
 - :heavy_check_mark: Desenvolvimento Orientado por Testes (TDD) - Intermediário.
 - :heavy_check_mark: Arquitetura Limpa - Básico.
 - :heavy_check_mark: Adesão aos princípios SOLID - Básico.
+- - :heavy_check_mark: Arquitetura hexagonal - Intermediário.
 
-<h3 align="left">Entre em Contato:</h3> <p align="left"> <a href="https://linkedin.com/in/https://www.linkedin.com/in/guilherme-barros-100a55159/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/guilherme-barros-100a55159/" height="30" width="40" /></a>
+<h3 align="left">Entre em Contato:</h3> <p align="left"> <a href="https://linkedin.com/in/https://www.linkedin.com/in/guilherme-barros-f/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/guilherme-barros-f/" height="30" width="40" /></a>
 </p>
 
 
